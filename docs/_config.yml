@@ -21,20 +21,11 @@
 title: Jackson Hayes
 email: jacksonjhayes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
 
 markdown: kramdown
 highlighter: rouge
 plugins: []
 paginate: 5
-
-navigation:
-  - title: Home
-    url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -54,10 +45,10 @@ social:
   email: jacksonjhayes@gmail.com
 
 header:
-  image: /images/bamboo.JPG
+  image: /assets/images/bamboo.JPG
 
 # Build settings
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin  : "contrast" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 theme: minimal-mistakes-jekyll
 plugins:
