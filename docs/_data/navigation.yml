@@ -1,0 +1,11 @@
+main:
+  - title: Developer 
+    url: /Developer
+  - title: Scientist
+    url: /Scientist
+  - title: Writer
+    url: /writing 
+  - title: Learner
+    url: /learner/
+  - title: Tinkerer
+    url: /hobbies
